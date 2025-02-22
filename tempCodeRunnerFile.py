@@ -1,3 +1,2 @@
-import os
-folder=os.listdir()
-print(folder)
+ut(100,5)
+# ob.sub()
